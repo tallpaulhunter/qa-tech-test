@@ -21,6 +21,9 @@ If you are new to docker please read the docker docs in order to understand how 
 - `docker run -it -p 3000:3000 ecsd-tech-test:latest`
 - Visit `localhost:3000` in a browser
 
+### To execute the tests
+
+
 ## Challenge 
 Once the app is started follow the instructions on the screen and complete the solution in the folder `/src/test/e2e/`
 Your submission should be able to work in CI without any set up or configuration from our side.
